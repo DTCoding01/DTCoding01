@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently working on a React project!
 
 
