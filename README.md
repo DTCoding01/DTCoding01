@@ -11,7 +11,7 @@ I'm currently working on a Flutter and Django project, where I’m applying my s
 Here’s a list of technologies and tools that I work with:
 
 - **Frontend:**
-  - JavaScript (ES6+)
+  - JavaScript/TypeScript (ES6+)
   - React
   - HTML5
   - CSS3
